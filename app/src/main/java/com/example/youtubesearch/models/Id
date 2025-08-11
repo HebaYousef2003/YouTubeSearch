@@ -1,0 +1,6 @@
+package com.example.youtubesearch.models;
+
+public class Id {
+    public String kind;
+    public String videoId;
+}
